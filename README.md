@@ -5,4 +5,3 @@ https://forums.alliedmods.net/showthread.php?t=258753
 ## Credits
 Laam4 - Who made original plugin  
 Kento - Traditional Chinese translate, and more coins
-tezz  - Added more coins 
