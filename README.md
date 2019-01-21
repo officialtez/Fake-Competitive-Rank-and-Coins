@@ -7,4 +7,4 @@ Laam4 - Who made original plugin
 
 Kento - Traditional Chinese translate, and more coins   
 
-tezzz - Added new coins
+tezz - Added new coins
