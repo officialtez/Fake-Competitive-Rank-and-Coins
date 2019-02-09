@@ -1,4 +1,4 @@
-# Fake-Competitive-Rank-and-Coins (1.3)
+# Fake-Competitive-Rank-and-Coins (1.4)
 Player can use fake coin, rank and level in server
 https://forums.alliedmods.net/showthread.php?t=258753
 
